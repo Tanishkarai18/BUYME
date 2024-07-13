@@ -1,0 +1,64 @@
+[
+    {
+        "id":1,
+        "name" : "Hair Dryer",
+        "category" : "Hair",
+        "brand" : "Philips",
+        "price" : 1500,
+        "stock" : 150,
+        "description" :"Experience quick and efficient drying with the Philips Hair Dryer, featuring advanced ionic technology to reduce frizz and enhance shine.",
+        "image" : "../public/images/hairdresser.png"
+    },
+    {
+        
+        "id":2,
+        "name" : "Laptop",
+        "category" : "Electronics",
+        "brand" : "Apple",
+        "price" : 65000,
+        "stock" : 150,
+        "description" :"Sleek, powerful, and designed for those who demand the best in performance and style. Perfect for work or play, with stunning Retina display and cutting-edge Apple technology.",
+        "image" : "../public/images/Macbook.png"
+    },
+    {
+        "id":3,
+        "name" : "Milk",
+        "category" : "Grocery",
+        "brand" : "Amul",
+        "price" : 50,
+        "stock" : 150,
+        "description" :"Fresh and nutritious, sourced from happy cows on Amul dairy farms. A staple for wholesome mornings and delicious meals, trusted by generations for its purity and quality.",
+        "image" : "../public/images/Amul.png"
+    },
+    {
+        "id":4,
+        "name" : "Jacket",
+        "category" : "Clothing",
+        "brand" : "Gucci",
+        "price" : 3500,
+        "stock" : 150,
+        "description" :"A blend of luxury and contemporary style, crafted with impeccable Italian craftsmanship. Elevates any outfit with its iconic design and premium materials, embodying timeless elegance and sophistication.",
+        "image" : "../public/images/jac.png"
+    },
+    {
+        "id":5,
+        "name" : "Headphones",
+        "category" : "Speakers",
+        "brand" : "Marshall",
+        "price" : 8000,
+        "stock" : 150,
+        "description" :"A blend of luxury and contemporary style, crafted with impeccable Italian craftsmanship. Elevates any outfit with its iconic design and premium materials, embodying timeless elegance and sophistication.",
+        "image" : "../public/images/headphone.png"
+    },
+    {
+        "id":6,
+        "name" : "Blender",
+        "category" : "Kitchen",
+        "brand" : "Signature",
+        "price" : 2000,
+        "stock" : 150,
+        "description" :" Your versatile kitchen companion for effortless blending, mixing, and pureeing. Ideal for creating smoothies, soups, sauces, and more with its powerful motor and durable blades. Simplify meal preparation and enjoy nutritious homemade creations in seconds.",
+        "image" : "../public/images/blender.png"
+    }
+
+]
